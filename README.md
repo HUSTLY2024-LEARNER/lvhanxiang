@@ -1,2 +1,1 @@
-# lvhanxiang
-First week assignment
+# lvhanx assignment
